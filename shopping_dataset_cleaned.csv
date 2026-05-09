@@ -1,0 +1,48 @@
+order_id,customer_id,customer_name,gender,age,product_category,product_name,quantity,price,payment_method,order_date,city,total_amount
+1001,C001,Aarav Sharma,Male,28.0,Electronics,Wireless Headphones,2,1499.99,Credit Card,2024-01-05,Delhi,2999.98
+1002,C002,Priya Patel,Female,34.0,Clothing,Cotton Kurta,3,599.0,UPI,2024-01-06,Mumbai,1797.0
+1003,C003,Rohit Verma,Male,22.0,Books,Data Science Handbook,1,899.0,Debit Card,2024-01-07,Bangalore,899.0
+1004,C004,Sneha Iyer,Female,29.0,Beauty,Moisturizer Cream,2,349.5,Cash,2024-01-08,Chennai,699.0
+1005,C005,Karan Mehta,Male,45.0,Electronics,Smart Watch,1,4999.0,Credit Card,2024-01-09,Hyderabad,4999.0
+1007,C006,Divya Nair,Female,32.0,Clothing,Denim Jacket,1,1299.0,UPI,2024-01-11,Pune,1299.0
+1008,C007,Amit Joshi,Male,31.0,Groceries,Organic Tea Pack,5,199.0,Cash,2024-01-12,Jaipur,995.0
+1009,C008,Neha Gupta,Female,27.0,Electronics,Bluetooth Speaker,1,2499.0,Credit Card,2024-01-13,Delhi,2499.0
+1010,C009,Suresh Kumar,Male,52.0,Books,Python Programming,2,750.0,Debit Card,2024-01-14,Kolkata,1500.0
+1011,C010,Pooja Singh,Female,24.0,Beauty,Lipstick Set,3,499.0,UPI,2024-01-15,Mumbai,1497.0
+1012,C011,Vikas Rao,Male,38.0,Groceries,Unknown Product,4,299.0,Cash,2024-01-16,Bangalore,1196.0
+1013,C012,Anjali Dubey,Female,33.0,Electronics,Laptop Stand,1,1799.0,Credit Card,2024-01-17,Chennai,1799.0
+1014,C013,Rahul Tiwari,Male,26.0,Clothing,Sports Shoes,2,2199.0,UPI,2024-01-18,Hyderabad,4398.0
+1015,C014,Kavya Reddy,Female,41.0,Beauty,Perfume,1,899.0,Debit Card,2024-01-19,Delhi,899.0
+1016,C015,Nikhil Bose,Male,29.0,Books,Machine Learning Guide,1,1199.0,Credit Card,2024-01-20,Kolkata,1199.0
+1018,C016,Shruti Agarwal,Female,35.0,Unknown,Summer Dress,2,799.0,UPI,2024-01-22,Jaipur,1598.0
+1019,C017,Manish Shah,Male,47.0,Electronics,Power Bank,3,1299.0,Cash,2024-01-23,Pune,3897.0
+1020,C018,Riya Kapoor,Female,23.0,Groceries,Mixed Nuts,2,449.0,Credit Card,2024-01-24,Mumbai,898.0
+1021,C019,Deepak Pillai,Male,32.0,Beauty,Face Wash,1,299.0,UPI,2024-01-25,Chennai,299.0
+1022,C020,Tanvi Choudhary,Female,30.0,Clothing,Formal Shirt,3,899.0,Debit Card,2024-01-26,Delhi,2697.0
+1023,C021,Arjun Nanda,Male,36.0,Electronics,USB-C Hub,2,1499.0,Credit Card,2024-01-27,Bangalore,2998.0
+1024,C022,Meera Pillai,Female,28.0,Books,Finance Basics,1,599.0,Cash,2024-01-28,Hyderabad,599.0
+1025,C023,Sanjay Mishra,Male,43.0,Groceries,Quinoa Pack,3,350.0,UPI,2024-01-29,Mumbai,1050.0
+1026,C024,Lata Joshi,Female,55.0,Clothing,Silk Saree,1,3499.0,Credit Card,2024-01-30,Jaipur,3499.0
+1027,C025,Varun Malhotra,Male,32.0,Electronics,Unknown Product,2,599.0,Debit Card,2024-01-31,Delhi,1198.0
+1028,C026,Ananya Saxena,Female,26.0,Beauty,Hair Serum,2,699.0,UPI,2024-02-01,Kolkata,1398.0
+1029,C027,Kunal Bajaj,Male,39.0,Books,Deep Learning Notes,3,999.0,Cash,2024-02-02,Pune,2997.0
+1030,C028,Simran Kaur,Female,22.0,Groceries,Protein Bar Pack,4,799.0,Credit Card,2024-02-03,Mumbai,3196.0
+1031,C029,Prakash Nair,Male,50.0,Clothing,Woolen Sweater,2,1599.0,UPI,2024-02-04,Chennai,3198.0
+1032,C030,Isha Tomar,Female,27.0,Electronics,Webcam HD,1,2199.0,Debit Card,2024-02-05,Bangalore,2199.0
+1033,C031,Aditya Pandey,Male,32.0,Groceries,Oats Family Pack,6,499.0,Cash,2024-02-06,Hyderabad,2994.0
+1034,C032,Preeti Ghosh,Female,44.0,Beauty,Sunscreen SPF50,3,449.0,Credit Card,2024-02-07,Delhi,1347.0
+1035,C033,Sameer Srivastava,Male,37.0,Books,Statistics Primer,1,699.0,UPI,2024-02-08,Kolkata,699.0
+1036,C034,Nandini Rao,Female,31.0,Electronics,Smart Bulb Pack,4,1299.0,Debit Card,2024-02-09,Pune,5196.0
+1037,C035,Gaurav Agarwal,Male,25.0,Clothing,Graphic Tees Set,3,1299.0,Cash,2024-02-10,Jaipur,3897.0
+1038,C036,Priyanka Sharma,Female,29.0,Groceries,Dry Fruits Assorted,2,999.0,Credit Card,2024-02-11,Mumbai,1998.0
+1039,C037,Mohit Verma,Male,34.0,Beauty,Beard Kit,1,849.0,UPI,2024-02-12,Chennai,849.0
+1040,C038,Richa Jain,Female,32.0,Clothing,Yoga Pants,2,1099.0,Debit Card,2024-02-13,Delhi,2198.0
+1041,C039,Tarun Khanna,Male,41.0,Electronics,Noise-Cancelling Earbuds,1,3499.0,Credit Card,2024-02-14,Bangalore,3499.0
+1042,C040,Swati Dubey,Female,26.0,Books,Psychology Today,2,449.0,Cash,2024-02-15,Hyderabad,898.0
+1044,C041,Harish Mehta,Male,48.0,Groceries,Green Tea Premium,5,599.0,Credit Card,2024-02-17,Pune,2995.0
+1045,C042,Pallavi Nair,Female,33.0,Clothing,Ethnic Kurta Set,1,1899.0,UPI,2024-02-18,Kolkata,1899.0
+1046,C043,Shivam Gupta,Male,27.0,Electronics,Mouse Wireless,2,799.0,Debit Card,2024-02-19,Delhi,1598.0
+1047,C044,Manya Kapoor,Female,24.0,Beauty,Foundation Kit,1,1299.0,Cash,2024-02-20,Mumbai,1299.0
+1048,C045,Vikram Singh,Male,32.0,Books,Investment Fundamentals,2,849.0,Credit Card,2024-02-21,Bangalore,1698.0
+1049,C046,Nisha Agarwal,Female,36.0,Groceries,Chia Seeds,3,399.0,UPI,2024-02-22,Jaipur,1197.0
+1050,C047,Ajay Kumar,Male,53.0,Clothing,Formal Blazer,1,4499.0,Debit Card,2024-02-23,Chennai,4499.0
